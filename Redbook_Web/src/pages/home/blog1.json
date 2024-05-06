@@ -1,0 +1,67 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "author": "mario",
+      "id": 1,
+      "video": "./pages/home/video.mp4" 
+    },
+    {
+      "title": "how to become a programmer!",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "author": "yoshi",
+      "id": 2,
+      "video": "./pages/home/video.mp4" 
+    },
+    {
+      "title": "Opening Party!",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "author": "yoshi",
+      "id": 2,
+      "video": "./pages/home/video.mp4" 
+    },
+    {
+      "title": "Tuesday story",
+      "body": "90766223s consectetur adipiscing el.",
+      "author": "mario",
+      "id": 1,
+      "video": "./pages/home/video.mp4" 
+    },
+    {
+      "title": "The lion video",
+      "body": "9w```````````` consectetur adipiscing el````` ..",
+      "author": "mario",
+      "id": 1,
+      "video": "./pages/home/video.mp4" 
+    },
+    {
+      "title": "Photography skills",
+      "body": "9w```````232```` consectetur adipiscing el ..",
+      "author": "mario",
+      "id": 1,
+      "video": "./pages/home/video.mp4" 
+    },
+    {
+      "title": "Healthy diet",
+      "body": " consectetur adipiscing el9w````````````````` ..",
+      "author": "mario",
+      "id": 1,
+      "video": "./pages/home/video.mp4" 
+    },
+    {
+      "title": "eating apple helps to keep fit",
+      "body": "9w``````````ng el9w````````````` ..",
+      "author": "mario",
+      "id": 1,
+      "video": "./pages/home/video.mp4" 
+    },
+    {
+      "title": "r",
+      "body": "9w````ectetur`````` ..",
+      "author": "mario",
+      "id": 1,
+      "video": "./pages/home/video.mp4" 
+    }
+  ]
+}
